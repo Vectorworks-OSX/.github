@@ -40,12 +40,6 @@ Industry libraries provide pre-made components through extensive object librarie
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/284384/m/vectorworks-screenshot.png?v=1605813988" alt="Vectorworks screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Vectorworks OSX excels for professional CAD design. 2D drafting produces accurate construction documents supporting contractor communication without drawing errors causing problems.
